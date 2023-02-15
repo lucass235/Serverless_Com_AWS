@@ -1,3 +1,5 @@
+org: lucass235
+app: my-service
 service: my-service
 
 frameworkVersion: "3"
