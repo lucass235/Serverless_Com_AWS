@@ -73,7 +73,7 @@ serverless remove
 
 ### Referências
 
-[Serverless Framework](https://www.serverless.com/)
-[Serverless Framework AWS](https://www.serverless.com/framework/docs/providers/aws/guide/quick-start/)
-[AWS](https://aws.amazon.com/pt/)
-[AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html)
+- [Serverless Framework](https://www.serverless.com/)
+- [Serverless Framework AWS](https://www.serverless.com/framework/docs/providers/aws/guide/quick-start/)
+- [AWS](https://aws.amazon.com/pt/)
+- [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html)
